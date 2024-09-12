@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDmTYxWhhgXm6LhrupRHYd71zqWxAqeWX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771834318593</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.ezspa</string>
+	<key>PROJECT_ID</key>
+	<string>ezs-beauty-fe06e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ezs-beauty-fe06e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771834318593:ios:a5d5d5f732c48b93dd9500</string>
+	<key>DATABASE_URL</key>
+	<string>https://ezs-beauty-fe06e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

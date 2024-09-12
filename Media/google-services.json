@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "771834318593",
+    "firebase_url": "https://ezs-beauty-fe06e-default-rtdb.firebaseio.com",
+    "project_id": "ezs-beauty-fe06e",
+    "storage_bucket": "ezs-beauty-fe06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771834318593:android:eada1099edb997f1dd9500",
+        "android_client_info": {
+          "package_name": "vn.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAVXbvSY4JtFikhOeVTB2nhaDQtl_USA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

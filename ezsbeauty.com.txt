@@ -1,0 +1,34 @@
+Email: ezscser.vn@gmail.com / cserspa@123 / 0981883338 / fingerprintjs.com / cserspa@123456
+ngoclb2412@gmail.com /24/12/1986 / nam / Cser vn
+
+EZS Beauty
+
+Đẹp mãi với thời gian
+
+ezsbeauty.com / sysuser_0f / iQkz59#5
+
+vn.ezspa
+
+#551c5d
+
+
+
+
+
+
+771834318593
+
+BMJsfg7aKO-RZr3iYTDZ2Cpz3mgyF6TobFbRM9nDesF22GtjwPEy96I4p_gKENYTGTa52-7_zakJjw_REhaw62g
+
+
+  apiKey: "AIzaSyBZiIgzO3BvNRUp7kNEqUEJRVfBG1ECCfw",
+  authDomain: "ezs-beauty-fe06e.firebaseapp.com",
+  databaseURL: "https://ezs-beauty-fe06e-default-rtdb.firebaseio.com",
+  projectId: "ezs-beauty-fe06e",
+  storageBucket: "ezs-beauty-fe06e.appspot.com",
+  messagingSenderId: "771834318593",
+  appId: "1:771834318593:web:6606252f83c8981cdd9500",
+  measurementId: "G-3XYCN37WXV"
+  
+  
+  
